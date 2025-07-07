@@ -1,0 +1,3 @@
+[submodule "themes/platon-book"]
+	path = themes/platon-book
+	url = git@github.com:clubplaton/platon-book.git

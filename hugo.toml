@@ -1,0 +1,7 @@
+baseURL = 'elclubdeplaton.org'
+languageCode = 'es'
+title = 'El Club de Platón'
+theme = 'platon-book'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
